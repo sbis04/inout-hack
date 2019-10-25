@@ -2,6 +2,8 @@
 
 VRScript is a visual, easy to use and completely revolutionary programming language that aims to minimize the steep learning curve of getting into programming.
 
+This is a demo line for Hacktoberfest. 
+
 
 # How to get started with the development version ?
 
